@@ -1,0 +1,27 @@
+- slug: 'paris'
+  name: 'Le Wagon Paris'
+  driver: ssaunier
+- slug: 'london'
+  name: 'Le Wagon London'
+  driver: 'papillard'
+- slug: 'tokyo'
+  name: 'LW Tokyo'
+  driver: ssaunier
+- slug: 'madrid'
+  name: 'Le Wagon Madrid'
+  driver: papillard
+- slug: 'rio'
+  name: 'Le Wagon Rio'
+  driver: ssaunier
+- slug: 'berlin'
+  name: 'Le Wagon Berlin'
+  driver: papillard
+- slug: 'lison'
+  name: 'Le Wagon Lisbon'
+  driver: ssaunier
+- slug: 'milan'
+  name: 'Le Wagon Milan'
+  driver: papillard
+- slug: 'casa'
+  name: 'Le Wagon Casablanca'
+  driver: ssaunier
